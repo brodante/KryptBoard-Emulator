@@ -17,7 +17,7 @@ KryptBoard is a simple Python desktop application that emulates a keyboard with 
 ## Setup
 1. Clone and enter the project directory. [13]
    ```
-   git clone <repo-url>
+   git clone https://github.com/brodante/KryptBoard-Emulator.git
    cd KryptBoard-Emulator
    ```
 2. Create and activate a virtual environment (Windows). [14]
