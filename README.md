@@ -95,4 +95,3 @@ Add the project’s license here (e.g., MIT), and include a LICENSE file in the 
 
 ## Acknowledgments
 Built with Tkinter and pycryptodome’s ChaCha20-Poly1305 implementation. [12][9]
-```
